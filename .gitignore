@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+Image_Proccessing_Java/nbproject/
+
+Image_Proccessing_Java/manifest.mf
+
+Image_Proccessing_Java/build.xml
+
+Image_Proccessing_Java/build/
